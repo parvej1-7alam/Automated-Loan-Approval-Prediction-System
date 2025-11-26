@@ -58,7 +58,7 @@ The dataset includes common applicant parameters:
 - **Pandas**, **NumPy**
 - **Matplotlib**, **Seaborn**
 - **Scikit-learn**
-- Jupyter Notebook
+- **Jupyter Notebook**
 
 ---
 
@@ -88,7 +88,4 @@ The dataset includes common applicant parameters:
 📁 Automated-Loan-Approval-Prediction-System 
 │  
 └── 📄 M5_Loan_Approval_Pred.ipynb
-
-
-## 📦 **Project Structure**
 
