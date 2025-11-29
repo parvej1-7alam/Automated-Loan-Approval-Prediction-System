@@ -1,5 +1,5 @@
 <h1 align="center" style="color:#1F497D; font-size: 38px;">
-🚀 Loan Approval Prediction – Machine Learning Project
+ Loan Approval Prediction – Machine Learning Project
 </h1>
 
 <p align="center">
@@ -8,7 +8,7 @@ A complete end-to-end ML workflow to automate loan approval decisions using data
 
 ---
 
-## 📌 **Project Overview**
+##  **Project Overview**
 
 Financial institutions receive thousands of loan applications every day.  
 Manually evaluating them is **slow**, **inconsistent**, and prone to **human bias**.
@@ -17,16 +17,16 @@ This project builds a **machine learning–based loan approval prediction system
 
 ---
 
-## 🎯 **Objectives**
+##  **Objectives**
 
-- ⚡ **Increase efficiency** of loan processing  
-- 🎯 **Improve prediction accuracy** using ML  
-- ⚖️ **Enhance fairness** with data-driven insights  
-- 📊 **Identify key factors** influencing approval decisions  
+-  **Increase efficiency** of loan processing  
+-  **Improve prediction accuracy** using ML  
+-  **Enhance fairness** with data-driven insights  
+-  **Identify key factors** influencing approval decisions  
 
 ---
 
-## 🧩 **Key Features**
+##  **Key Features**
 
 - Complete **data loading, cleaning, and preprocessing**
 - Exploratory Data Analysis (**EDA**) with visual insights  
@@ -37,7 +37,7 @@ This project builds a **machine learning–based loan approval prediction system
 
 ---
 
-## 🗂️ **Dataset Information**
+##  **Dataset Information**
 
 The dataset includes common applicant parameters:
 
@@ -52,7 +52,7 @@ The dataset includes common applicant parameters:
 
 ---
 
-## ⚙️ **Technologies Used**
+##  **Technologies Used**
 
 - **Python**
 - **Pandas**, **NumPy**
@@ -62,7 +62,7 @@ The dataset includes common applicant parameters:
 
 ---
 
-## 🛠️ **Modeling Approach**
+##  **Modeling Approach**
 
 1. Data cleaning & preprocessing  
 2. Encoding categorical variables  
@@ -74,7 +74,7 @@ The dataset includes common applicant parameters:
 
 ---
 
-## 📈 **Evaluation Metrics**
+##  **Evaluation Metrics**
 
 - Accuracy Score  
 - Precision & Recall  
@@ -83,9 +83,11 @@ The dataset includes common applicant parameters:
 - Classification Report  
 
 ---
-## 📦 Project Structure
+##  Project Structure
 
 📁 Automated-Loan-Approval-Prediction-System 
 │  
-└── 📄 M5_Loan_Approval_Pred.ipynb
+└── 🐍 M5_Loan_Approval_Pred.ipynb
+│  
+└── 📄 README.md
 
